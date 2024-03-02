@@ -82,6 +82,15 @@ main {
   font-weight: bold;
 }
 
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  color: #000;
+}
 .weather-app-unit {
   margin-top: 6px;
   font-size: 28px;
